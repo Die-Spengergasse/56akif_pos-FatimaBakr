@@ -1,0 +1,15 @@
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\bin\Debug\net6.0\Übung01.exe
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\bin\Debug\net6.0\Übung01.deps.json
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\bin\Debug\net6.0\Übung01.runtimeconfig.json
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\bin\Debug\net6.0\Übung01.dll
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\bin\Debug\net6.0\Übung01.pdb
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\Übung01.csproj.AssemblyReference.cache
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\Übung01.GeneratedMSBuildEditorConfig.editorconfig
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\Übung01.AssemblyInfoInputs.cache
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\Übung01.AssemblyInfo.cs
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\Übung01.csproj.CoreCompileInputs.cache
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\Übung01.dll
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\refint\Übung01.dll
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\Übung01.pdb
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\Übung01.genruntimeconfig.cache
+C:\htl\56akif\pos\SPG_POS\Übung01\Übung01\obj\Debug\net6.0\ref\Übung01.dll
