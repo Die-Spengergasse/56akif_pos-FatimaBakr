@@ -1,0 +1,12 @@
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\bin\Debug\net7.0\SmarterWebShop.Domain.deps.json
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\bin\Debug\net7.0\SmarterWebShop.Domain.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\bin\Debug\net7.0\SmarterWebShop.Domain.pdb
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\obj\Debug\net7.0\SmarterWebShop.Domain.csproj.AssemblyReference.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\obj\Debug\net7.0\SmarterWebShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\obj\Debug\net7.0\SmarterWebShop.Domain.AssemblyInfoInputs.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\obj\Debug\net7.0\SmarterWebShop.Domain.AssemblyInfo.cs
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\obj\Debug\net7.0\SmarterWebShop.Domain.csproj.CoreCompileInputs.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\obj\Debug\net7.0\SmarterWebShop.Domain.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\obj\Debug\net7.0\refint\SmarterWebShop.Domain.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\obj\Debug\net7.0\SmarterWebShop.Domain.pdb
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Domain\obj\Debug\net7.0\ref\SmarterWebShop.Domain.dll

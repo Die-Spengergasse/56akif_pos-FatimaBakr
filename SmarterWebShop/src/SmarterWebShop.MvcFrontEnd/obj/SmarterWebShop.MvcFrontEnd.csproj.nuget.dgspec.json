@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.MvcFrontEnd\\SmarterWebShop.MvcFrontEnd.csproj": {}
+  },
+  "projects": {
+    "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\SmarterWebShop.Application\\SmarterWebShop.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\SmarterWebShop.Application\\SmarterWebShop.Application.csproj",
+        "projectName": "SmarterWebShop.Application",
+        "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\SmarterWebShop.Application\\SmarterWebShop.Application.csproj",
+        "packagesPath": "C:\\Users\\fatim\\.nuget\\packages\\",
+        "outputPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\SmarterWebShop.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj": {
+                "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj"
+              },
+              "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Repository\\SmarterWebShop.Repository.csproj": {
+                "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Repository\\SmarterWebShop.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj",
+        "projectName": "SmarterWebShop.Domain",
+        "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\fatim\\.nuget\\packages\\",
+        "outputPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Infastructure\\SmarterWebShop.Infastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Infastructure\\SmarterWebShop.Infastructure.csproj",
+        "projectName": "SmarterWebShop.Infastructure",
+        "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Infastructure\\SmarterWebShop.Infastructure.csproj",
+        "packagesPath": "C:\\Users\\fatim\\.nuget\\packages\\",
+        "outputPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Infastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj": {
+                "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.MvcFrontEnd\\SmarterWebShop.MvcFrontEnd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.MvcFrontEnd\\SmarterWebShop.MvcFrontEnd.csproj",
+        "projectName": "SmarterWebShop.MvcFrontEnd",
+        "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.MvcFrontEnd\\SmarterWebShop.MvcFrontEnd.csproj",
+        "packagesPath": "C:\\Users\\fatim\\.nuget\\packages\\",
+        "outputPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.MvcFrontEnd\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\SmarterWebShop.Application\\SmarterWebShop.Application.csproj": {
+                "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\SmarterWebShop.Application\\SmarterWebShop.Application.csproj"
+              },
+              "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj": {
+                "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Repository\\SmarterWebShop.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Repository\\SmarterWebShop.Repository.csproj",
+        "projectName": "SmarterWebShop.Repository",
+        "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Repository\\SmarterWebShop.Repository.csproj",
+        "packagesPath": "C:\\Users\\fatim\\.nuget\\packages\\",
+        "outputPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj": {
+                "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj"
+              },
+              "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Infastructure\\SmarterWebShop.Infastructure.csproj": {
+                "projectPath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Infastructure\\SmarterWebShop.Infastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\bin\Debug\net7.0\SmarterWebShop.Repository.deps.json
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\bin\Debug\net7.0\SmarterWebShop.Repository.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\bin\Debug\net7.0\SmarterWebShop.Repository.pdb
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\bin\Debug\net7.0\SmarterWebShop.Domain.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\bin\Debug\net7.0\SmarterWebShop.Infastructure.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\bin\Debug\net7.0\SmarterWebShop.Domain.pdb
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\bin\Debug\net7.0\SmarterWebShop.Infastructure.pdb
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\SmarterWebShop.Repository.csproj.AssemblyReference.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\SmarterWebShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\SmarterWebShop.Repository.AssemblyInfoInputs.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\SmarterWebShop.Repository.AssemblyInfo.cs
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\SmarterWebShop.Repository.csproj.CoreCompileInputs.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\SmarterWebShop.Repository.csproj.CopyComplete
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\SmarterWebShop.Repository.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\refint\SmarterWebShop.Repository.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\SmarterWebShop.Repository.pdb
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Repository\obj\Debug\net7.0\ref\SmarterWebShop.Repository.dll

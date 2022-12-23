@@ -8,10 +8,22 @@ namespace SmarterWebShop.Domain.Modell
 {
     public class Preise
     {
-        public int PreisId { get; set; }
+        public Preise(int Id, long preiswert)
+        {
+            Id = Id;
+            Preiswert = preiswert;
+            
+        }
+        protected Preise()
+        {
+
+        }
+
+        public int Id { get; private set; }
         public long Preiswert { get; set; }
+       
+        
+        
         public List<Rechnung> Rechnungen { get; set; } = new();
-        public Zeiten ZeitNavigation { get; set; } = new();
-        public Produkte ProduktNavigation { get; set; } = new();
     }
 }

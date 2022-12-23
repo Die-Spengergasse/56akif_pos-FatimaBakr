@@ -1,0 +1,17 @@
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\bin\Debug\net7.0\SmarterWebShop.Infastructure.deps.json
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\bin\Debug\net7.0\SmarterWebShop.Infastructure.runtimeconfig.json
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\bin\Debug\net7.0\SmarterWebShop.Infastructure.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\bin\Debug\net7.0\SmarterWebShop.Infastructure.pdb
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\bin\Debug\net7.0\SmarterWebShop.Domain.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\bin\Debug\net7.0\SmarterWebShop.Domain.pdb
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\SmarterWebShop.Infastructure.csproj.AssemblyReference.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\SmarterWebShop.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\SmarterWebShop.Infastructure.AssemblyInfoInputs.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\SmarterWebShop.Infastructure.AssemblyInfo.cs
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\SmarterWebShop.Infastructure.csproj.CoreCompileInputs.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\SmarterWebShop.Infastructure.csproj.CopyComplete
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\SmarterWebShop.Infastructure.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\refint\SmarterWebShop.Infastructure.dll
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\SmarterWebShop.Infastructure.pdb
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\SmarterWebShop.Infastructure.genruntimeconfig.cache
+C:\htl\56akif\pos\SPG_POS\56akif_pos-FatimaBakr\SmarterWebShop\src\SmarterWebShop.Infastructure\obj\Debug\net7.0\ref\SmarterWebShop.Infastructure.dll

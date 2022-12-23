@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hYleTlElJF2OSMe5bq3NayESrogovhsM+w0siQ3pRPUd7YQCcVfPOCGwcurbFzkJ+P0yLYuIhCF27w3uMtlJFw==",
+  "dgSpecHash": "VjvqsQKZnPOH62wBwg+/8J8SlmjUde6vOQaIlWD/VeiKg0WhNjut5rcgs7A7sz7NI8WK259XAqHbIkfMj62VAA==",
   "success": true,
   "projectFilePath": "C:\\htl\\56akif\\pos\\SPG_POS\\56akif_pos-FatimaBakr\\SmarterWebShop\\src\\SmarterWebShop.Domain\\SmarterWebShop.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fatim\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
